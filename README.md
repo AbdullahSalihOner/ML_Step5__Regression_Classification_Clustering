@@ -4,7 +4,7 @@
 
 Gradient Boosting Classifier, bir dizi zayıf öğrenici (genellikle karar ağaçları) kullanarak bir topluluk modeli oluşturan bir makine öğrenmesi algoritmasıdır. Her bir zayıf öğrenici, önceki öğrenicinin hatalarını düzeltmeye çalışır. Bu, hataların bir gradyan iniş algoritması kullanılarak azaltılmasıyla elde edilir, bu da algoritmanın adını verir.
 
-
+  
 
 ### 10.K-Fold Cross Validation
 
